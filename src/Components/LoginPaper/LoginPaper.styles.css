@@ -1,0 +1,90 @@
+.LoginPaper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Welcome{
+    font-family: Asap;
+    font-size: 40px;
+    line-height: 46px;
+    margin-top: 29px;
+    margin-bottom: 29px;
+}
+.back{
+    color: #4285F4;
+}
+.logintest{
+    font-family: Asap;
+    font-size: 16px;
+    line-height: 25px;
+    align-self: center;
+    color: #818181;
+    margin-bottom: 70px;
+}
+.LoginFields{
+    width: 68.4%;
+    display: flex;
+    flex-direction: column;
+}
+.formlabel{
+    font-family: Asap;
+    display: flex;
+    font-weight: 500;
+    width: 56%;
+    height: 18px;
+    font-size: 16px;
+    margin-top: 24px;
+    line-height: 18px;
+}
+.control-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.forgotpwd{
+    font-weight: 500;
+    color:#4285F4;
+    font-size: 16px;
+    line-height: 18px;
+}
+.bottom-message{
+    font-family: Asap;
+    font-weight: 500;
+    font-size: 16px;
+    color: #B8B8B8;
+    margin-top: 65px;
+}
+@media only screen and (max-width: 1200px) {
+    .Welcome{
+        font-size: 16px;
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+    .logintest{
+        margin-bottom: 20px;
+    }
+    .bottom-message{
+        margin-top: 30px;
+        margin-bottom: 9px;
+    }
+
+}
+@media only screen and (max-width: 500px){
+    .Welcome{
+        margin-top: 15px;
+        margin-bottom: 7px;
+    }
+    .formlabel{
+        font-size: 13px;
+        line-height: 16px;
+        min-width: 90%;
+        margin-top: 10px;
+    }
+    .forgotpwd{
+        font-size: 12px;
+        line-height: 13px;
+    }
+    .control-wrapper{
+        font-size: 12px;
+    }
+}
