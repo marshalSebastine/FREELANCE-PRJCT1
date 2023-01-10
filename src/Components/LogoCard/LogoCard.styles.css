@@ -25,10 +25,13 @@
     line-height: 60px;
     color: #4285F4;
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1200px) {
     .LogoCard{
         width: 84vw;
-        height: 57.2vh;
+        min-height: 740px;
+        max-height: 750px;
+        margin-bottom: 25px;
+        margin-top: 25px;
     }
     .LogoHeader{
         height: 10%;

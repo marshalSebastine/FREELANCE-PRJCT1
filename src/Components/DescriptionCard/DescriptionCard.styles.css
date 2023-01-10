@@ -63,11 +63,11 @@
     width: 26%;
     height: 20.35%;
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1200px) {
     .DescriptionCard{
         width: 84vw;
         height: 36vh;
-        /* order: 2; */
+        order: 2;
     }
     .DescriptionCardTitle{
         font-size: 24px;
