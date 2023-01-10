@@ -1,7 +1,7 @@
 .DescriptionCard{
     height: 83.2vh;
     width: 43.47vw;
-    position: absolute;
+    position: relative;
     background-color: #4285F4;
     border-radius: 2rem;
 }
@@ -67,6 +67,7 @@
     .DescriptionCard{
         width: 84vw;
         height: 36vh;
+        /* order: 2; */
     }
     .DescriptionCardTitle{
         font-size: 24px;
