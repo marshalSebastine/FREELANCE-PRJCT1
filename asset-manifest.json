@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/FREELANCE-PRJCT1/static/css/main.65b1260c.css",
-    "main.js": "/FREELANCE-PRJCT1/static/js/main.1b629032.js",
+    "main.css": "/FREELANCE-PRJCT1/static/css/main.2704f58d.css",
+    "main.js": "/FREELANCE-PRJCT1/static/js/main.6e7f6d78.js",
     "static/js/787.0b1b7ad8.chunk.js": "/FREELANCE-PRJCT1/static/js/787.0b1b7ad8.chunk.js",
     "static/media/Asap-VariableFont_wdth,wght.ttf": "/FREELANCE-PRJCT1/static/media/Asap-VariableFont_wdth,wght.42ae4a0575edbaaf909e.ttf",
     "static/media/goshop.svg": "/FREELANCE-PRJCT1/static/media/goshop.f083ecffb35446807f2847948c5445f8.svg",
     "static/media/topleaf.svg": "/FREELANCE-PRJCT1/static/media/topleaf.4c7d6ccd7b6704aeb9307e10938b2611.svg",
     "static/media/bottomleaf.svg": "/FREELANCE-PRJCT1/static/media/bottomleaf.c5b5c92203aafdeee9ed01b2b7b4fada.svg",
     "index.html": "/FREELANCE-PRJCT1/index.html",
-    "main.65b1260c.css.map": "/FREELANCE-PRJCT1/static/css/main.65b1260c.css.map",
-    "main.1b629032.js.map": "/FREELANCE-PRJCT1/static/js/main.1b629032.js.map",
+    "main.2704f58d.css.map": "/FREELANCE-PRJCT1/static/css/main.2704f58d.css.map",
+    "main.6e7f6d78.js.map": "/FREELANCE-PRJCT1/static/js/main.6e7f6d78.js.map",
     "787.0b1b7ad8.chunk.js.map": "/FREELANCE-PRJCT1/static/js/787.0b1b7ad8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65b1260c.css",
-    "static/js/main.1b629032.js"
+    "static/css/main.2704f58d.css",
+    "static/js/main.6e7f6d78.js"
   ]
 }
