@@ -1,0 +1,81 @@
+.DescriptionCard{
+    height: 83.2vh;
+    width: 43.47vw;
+    position: absolute;
+    background-color: #4285F4;
+    border-radius: 2rem;
+}
+.DescriptionCardTitle{
+    font-family: Asap;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 19%;
+    left: 18.5%;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-top: 0;
+    margin-bottom: 25px;
+    color: #FFFFFF;
+    height: 76px;
+    width: 63%;
+    font-size: 35px;
+    text-align: center;
+}
+.DescriptionCardText{
+    color: #FFFFFF;
+    position: absolute;
+    bottom:15%;
+    left: 18.5%;
+    margin: 0;
+    padding: 0;
+    font-family: Asap;
+    font-size: 18px;
+    height: 54px;
+    width: 63%;
+}
+.DescriptionCardText > p{
+    margin: 0px;
+    line-height: 25px;
+}
+.CardImage{
+    width: 71%;
+    height: 50%;
+    position: relative;
+    top:10%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.BottomLeaf{
+    position: absolute;
+    transform: rotate(167.95);
+    left: -14%;
+    height: 48%;
+    width: 54%;
+    bottom: -9%;
+    rotate: 167.95;
+}
+.TopLeaf{
+    position: absolute;
+    top: -5%;
+    right: -7%;
+    width: 26%;
+    height: 20.35%;
+}
+@media only screen and (max-width: 800px) {
+    .DescriptionCard{
+        width: 84vw;
+        height: 36vh;
+    }
+    .DescriptionCardTitle{
+        font-size: 24px;
+        top: 60%
+    }
+    .DescriptionCardText{
+        font-size: 12px;
+        width: 80%;
+        left: 10%;
+        top: 75%
+    }
+  }
